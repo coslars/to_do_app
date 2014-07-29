@@ -1,5 +1,8 @@
 module SessionsHelper
 
+  # Handle all the necessary things we need to do to sign in the user
+  #  Note: At this point the SessionsController#create method has validated that this user is ok and called
+  #  this sign in method to handle the rest of the work.
   def sign_in(user)
 
     # Create a new token
@@ -13,6 +16,15 @@ module SessionsHelper
 
     # Set the current user equal to the logged in user
     self.current_user = user
+  end
+
+  # Handle all the necessary things we need to do to sign the user out
+  #  Note: At this point the SessionsController#destory method has been called which in turn called
+  #  this sign out method to handle the rest of the work.
+  def sign_out
+    current_user.update_attribute(:remember_token, User.digest(User.new_remember_token))
+    cookies.delete(:remember_token)
+    self.current_user = nil
   end
 
   # Tester method so we don't have to check if the current_user is nil everywhere

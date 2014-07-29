@@ -9,7 +9,7 @@
 <body>
 
 <% if signed_in? %>
-    <h1><%= "#{current_user.f_name} #{current_user.l_name}'s To Dos" %></h1>
+    <h1><%= "#{current_user.f_name} #{current_user.l_name}'s To Dos" %> <%= link_to "Sign out", "/sessions/:id", method: "delete", id: current_user %></h1>
 <% else %>
     <h1>To Do Application</h1>
 <% end %>
