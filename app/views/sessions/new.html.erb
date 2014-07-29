@@ -1,0 +1,21 @@
+
+<h2>This is the login page</h2>
+
+<%= form_tag("/sessions", { method: 'post' } ) do %>
+
+    <%= render 'shared/messages', object: User.new %>
+
+    <p>
+        <%= label_tag(:email, "Email") %><br>
+        <%= text_field_tag(:email, '', { size: '75', maxlength: '75', autocomplete: 'off' }) %>
+    </p>
+
+    <p>
+        <%= label_tag(:password, "Password") %><br>
+        <%= password_field_tag(:password, '', { size: '25', maxlength: '25', autocomplete: 'off' }) %>
+    </p>
+
+    <p>
+        <%= submit_tag("Login") %>
+    </p>
+<% end %>

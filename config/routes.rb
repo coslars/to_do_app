@@ -2,6 +2,13 @@ ToDoApp::Application.routes.draw do
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
+  # MDL: If a user goes to [server][port]/ they will get the login page rather than
+  #  the default index file.  To get this to work I had to delete the public index.html
+  root 'sessions#new'
+
+  resources :users
+  resources :sessions, only: [:new, :create, :destroy, :show]
+
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
 

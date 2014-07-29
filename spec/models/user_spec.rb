@@ -15,6 +15,8 @@ describe User do
   it { should respond_to(:password) }
   it { should respond_to(:password_confirmation) }
   it { should respond_to(:authenticate) }
+  it { should respond_to(:planned_complete_date) }
+  it { should respond_to(:complete_date) }
 
   it { should be_valid }
 
@@ -74,6 +76,11 @@ foo@bar_baz.com foo@bar+baz.com]
   describe "with a password that's too short" do
     before { @user.password = @user.password_confirmation = "a" * 7 }
     it { should be_invalid }
+  end
+
+  describe "when a password is too long" do
+    before { @user.password = "a" * 26 }
+    it { should_not be_valid }
   end
 
   describe "return value of authenticate method" do
