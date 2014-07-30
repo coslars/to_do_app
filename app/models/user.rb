@@ -12,7 +12,7 @@ class User < ActiveRecord::Base
             length: { maximum: 100 },
             format:     { with: VALID_EMAIL_REGEX },
             uniqueness: { case_sensitive: false }
-  validates :password, length: { minimum: 8, maximum: 25 }
+  validates :password, length: { minimum: 8, maximum: 25 }, if: lambda{ !password.nil? }
 
   has_secure_password
 

@@ -6,8 +6,10 @@
 
 <%# Error Messages %>
 <% if object && object.errors.any? %>
+
+    <%= "We are in." %>
     <div id="error_explanation">
-        <div class="alert alert-error">
+        <div>
             The form contains <%= pluralize(object.errors.count, "error") %>.
         </div>
         <ul>
