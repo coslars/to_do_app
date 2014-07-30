@@ -11,7 +11,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140730195523) do
+ActiveRecord::Schema.define(version: 20140730213015) do
+
+  create_table "todos", force: true do |t|
+    t.string   "description"
+    t.integer  "user_id"
+    t.date     "planned_complete_date"
+    t.date     "complete_date"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "todos", ["user_id"], name: "index_todos_on_user_id"
 
   create_table "users", force: true do |t|
     t.string   "f_name"
@@ -23,4 +34,5 @@ ActiveRecord::Schema.define(version: 20140730195523) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
 end

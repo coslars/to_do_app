@@ -1,4 +1,11 @@
 ToDoApp::Application.routes.draw do
+  get "todos/new"
+  get "todos/create"
+  get "todos/update"
+  get "todos/edit"
+  get "todos/destroy"
+  get "todos/index"
+  get "todos/show"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -7,6 +14,7 @@ ToDoApp::Application.routes.draw do
   root 'sessions#new'
 
   resources :users
+  resources :todos
   resources :sessions, only: [:new, :create, :destroy, :show]
 
   # You can have the root of your site routed with "root"

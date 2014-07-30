@@ -95,10 +95,12 @@
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.4, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timeliness (v0.3.7, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turbolinks (v1.1.1, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.40, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.1.1, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="validates_timeliness (v3.0.14, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket (v1.0.7, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="will_paginate (v3.0.4, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xml-simple (v1.1.4, RVM: ruby-2.0.0-p481 [rails-4.0.8]) [gem]" level="application" />
