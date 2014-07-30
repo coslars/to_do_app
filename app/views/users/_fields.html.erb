@@ -36,6 +36,6 @@
     </p>
 
     <p>
-        <%= f.submit %> <%= link_to("Delete", "/sessions/:id", method: "delete", id: @user) unless @user.id.nil? %> <%= link_to 'Cancel', users_path %>
+        <%= f.submit %> <%= link_to("Delete", "/users/#{@user.id}", method: "delete") unless @user.id.nil? %> <%= link_to 'Cancel', users_path %>
     </p>
 <% end %>

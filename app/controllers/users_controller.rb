@@ -8,7 +8,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     if @user.save
       flash.now[:success] = build_success_message(@user, 'Created')
-      redirect_to @user
+      redirect_to users_path
     else
       # Go back to the list screen
       render 'new'
@@ -37,6 +37,26 @@ class UsersController < ApplicationController
     else
       render 'edit'
     end
+  end
+
+  def destroy
+
+    # Get the latest version of this user from the DB first
+    @user = find_user_by_id(params[:id])
+
+    # And make sure this isn't the current user
+    return_message = ''
+    if @user.id != current_user.id
+      User.find(params[:id]).destroy
+      return_message = build_success_message @user, 'Deleted'
+    else
+      return_message = "You cannot delete yourself."
+    end
+
+    # NOTE: flash should be used when redirecting, flash.now should be used to render
+    flash[:success] = return_message
+    # NOTE: redirect_to should be used as redirect_to_url is depricated
+    redirect_to users_path
   end
 
   private

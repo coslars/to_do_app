@@ -1,6 +1,8 @@
 <% provide(:title, 'All users') %>
 <h1>All users</h1>
 
+<%= render 'shared/messages', object: nil %>
+
 <div>
     <%= link_to 'Create', new_user_path %>
 </div>
@@ -10,7 +12,7 @@
 <ul class="users">
     <% @users.each do |user| %>
         <li>
-            <%= link_to "#{user.f_name} #{user.l_name}", action: 'edit', id: user %> - <%= link_to("Delete", "/sessions/:id", method: "delete", id: user) %>
+            <%= link_to "#{user.f_name} #{user.l_name}", action: 'edit', id: user %> - <%= link_to("Delete", "/users/#{user.id}", method: "delete") %>
         </li>
     <% end %>
 </ul>
