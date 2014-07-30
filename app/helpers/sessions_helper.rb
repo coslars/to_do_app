@@ -32,6 +32,30 @@ module SessionsHelper
     !current_user.nil?
   end
 
+  #
+  # Called from application_controller as a before_filter to lock down the application
+  #
+  def validate_login
+    unless signed_in?
+      store_location
+      redirect_to root_url, notice: "Please sign in."
+    end
+  end
+
+  # If they are valid users and try to go to a URL before being authenticated
+  #  then store where they wanted to go so we can send them there after they
+  #  authenticate with us.
+  def store_location
+    session[:return_to] = request.url if request.get?
+  end
+
+  # Goes with the method store_location, once authenticated
+  #  take them to where they wanted to go.
+  def redirect_back_or(default)
+    redirect_to(session[:return_to] || default)
+    session.delete(:return_to)
+  end
+
   # current_user Setter
   def current_user=(user)
     @current_user = user
