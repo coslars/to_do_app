@@ -1,0 +1,29 @@
+<%# You could also specify the action, but by using @todo you don't have to: form_for @todo, url: { action: 'create' } do |f| %>
+<%# You could also specify the action, but by using @todo you don't have to: form_for @todo, url: { action: 'update' } do |f| %>
+
+<%= form_for @todo do |f| %>
+
+    <%= render 'shared/messages', object: f.object %>
+
+    <p>
+        <%= f.label 'Description' %><br>
+        <%= f.text_field :description, { size: '100', maxlength: '100' } %>
+    </p>
+
+    <p>
+        <%= f.label 'Planned Complete Date' %><br>
+        <%= f.date_select :planned_complete_date, { size: '10', maxlength: '10' } %>
+    </p>
+
+    <%# No need to show this field on create %>
+    <% if !@todo.id.nil? %>
+    <p>
+        <%= f.label 'Planned Complete Date' %><br>
+        <%= f.date_select :planned_complete_date, { size: '10', maxlength: '10' } %>
+    </p>
+    <% end %>
+
+    <p>
+        <%= f.submit %> <%= link_to("Delete", "/todos/#{@todo.id}", method: "delete") unless @todo.id.nil? %> <%= link_to 'Cancel', todos_path %>
+    </p>
+<% end %>

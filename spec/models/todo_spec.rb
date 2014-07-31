@@ -20,6 +20,11 @@ describe Todo do
     it { should_not be_valid }
   end
 
+  describe "when a description is too long" do
+    before { @todo.description = "a" * 101 }
+    it { should_not be_valid }
+  end
+
   describe "when user_id is not nil" do
     before { @todo.user_id = nil }
     it { should_not be_valid }

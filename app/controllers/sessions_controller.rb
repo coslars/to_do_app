@@ -5,6 +5,7 @@ class SessionsController < ApplicationController
 
   # Show the login page
   def new
+    render 'new', layout: 'login'
   end
 
   # Right now this is the landing page
@@ -21,7 +22,7 @@ class SessionsController < ApplicationController
       redirect_back_or "/sessions/#{current_user.id}"
     else
       flash.now[:error] = 'Invalid email/password combination'
-      render 'new'
+      render 'new', layout: 'login'
     end
   end
 

@@ -32,7 +32,7 @@ class TodosController < ApplicationController
 
   def destroy
     # Get the latest version of this todo as we delete it.
-    @todo = User.find(params[:id]).destroy
+    @todo = Todo.find(params[:id]).destroy
 
     # NOTE: flash should be used when redirecting, flash.now should be used to render
     flash[:success] = build_success_message @todo, 'Deleted'

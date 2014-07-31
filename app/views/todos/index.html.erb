@@ -1,2 +1,19 @@
-<h1>Todos#index</h1>
-<p>Find me in app/views/todos/index.html.erb</p>
+<h1>All To Dos</h1>
+
+<%= render 'shared/messages', object: nil %>
+
+<div>
+    <%= link_to 'Create', new_todo_path %>
+</div>
+
+<%= will_paginate %>
+
+<ul>
+    <% @todos.each do |todo| %>
+        <li>
+            <%= link_to "#{todo.description}", action: 'edit', id: todo %> - <%= link_to("Delete", "/todod/#{todo.id}", method: "delete") %>
+        </li>
+    <% end %>
+</ul>
+
+<%= will_paginate %>

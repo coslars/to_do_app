@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>To Do Application Login</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<h1>To Do Application - Login</h1>
+
+<%= yield %>
+
+<%= debug(params) if Rails.env.development? %>
+</body>
+
+<script>
+    // Set focus to the first field on the screen.
+    $(document).ready(function() {
+        $('form:first *:input[type!=hidden]:first').focus();
+    });
+</script>
+</html>
