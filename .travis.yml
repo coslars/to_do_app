@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.0.0
-before_deploy:
+after_success:
   - echo "--- About to run license_finder. ---"
   - license_finder
   - echo "--- license_finder finished. ---"
