@@ -2,4 +2,6 @@
 
 echo "...Running License Finder"
 
-license_finder show_results
+bundle exec rake license_finder
+
+echo "...License Finder Complete"
