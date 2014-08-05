@@ -3,10 +3,7 @@ cache: bundler
 rvm:
   - 2.0.0
 before_script:
-  - echo "--- About to run license_finder. ---"
-  - echo "Current Directory: " $PWD
-  - license_finder
-  - echo "--- license_finder finished. ---"
+  - ./script/license_test.sh
 notifications:
   email:
     recipients:
