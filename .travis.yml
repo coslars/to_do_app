@@ -5,10 +5,6 @@ before_deploy:
   - echo "--- About to run license_finder. ---"
   - license_finder
   - echo "--- license_finder finished. ---"
-after_success:
-  - echo "--- All Licenses have been approved. ---"
-after_failure:
-  - echo "--- License finder found un-approved licenses. ---"
 notifications:
   email:
     recipients:
