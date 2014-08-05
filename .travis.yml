@@ -1,7 +1,10 @@
 language: ruby
 rvm:
   - 2.0.0
-script: ./license_test.sh
+before_deplly:
+  - echo "--- About to run license_finder. ---"
+  - license_finder
+  - echo "--- license_finder finished. ---"
 after_success:
   - echo "--- All Licenses have been approved. ---"
 after_failure:
