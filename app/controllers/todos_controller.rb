@@ -43,7 +43,7 @@ class TodosController < ApplicationController
 
   def index
     # Slightly different, we are only showing the todos for the currently logged in user
-    @todos = Todo.find_by_user_id(current_user.id).paginate(page: params[:page])
+    @todos = Todo.where(user_id: current_user.id).paginate(page: params[:page]).order('planned_complete_date DESC')
   end
 
   def show

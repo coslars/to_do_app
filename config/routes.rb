@@ -1,11 +1,4 @@
 ToDoApp::Application.routes.draw do
-  get "todos/new"
-  get "todos/create"
-  get "todos/update"
-  get "todos/edit"
-  get "todos/destroy"
-  get "todos/index"
-  get "todos/show"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

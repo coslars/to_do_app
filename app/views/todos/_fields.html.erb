@@ -18,8 +18,8 @@
     <%# No need to show this field on create %>
     <% if !@todo.id.nil? %>
     <p>
-        <%= f.label 'Planned Complete Date' %><br>
-        <%= f.date_select :planned_complete_date, { size: '10', maxlength: '10' } %>
+        <%= f.label 'Complete Date' %><br>
+        <%= f.date_select :complete_date, { size: '10', maxlength: '10' } %>
     </p>
     <% end %>
 

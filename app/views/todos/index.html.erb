@@ -11,7 +11,7 @@
 <ul>
     <% @todos.each do |todo| %>
         <li>
-            <%= link_to "#{todo.description}", action: 'edit', id: todo %> - <%= link_to("Delete", "/todod/#{todo.id}", method: "delete") %>
+            <%= link_to "#{todo.description}", action: 'edit', id: todo %> - <%= link_to("Delete", "/todos/#{todo.id}", method: "delete") %>
         </li>
     <% end %>
 </ul>
