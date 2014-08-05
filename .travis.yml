@@ -1,0 +1,11 @@
+language: ruby
+rvm:
+  - 2.0.0
+before_deploy:
+  - ./license_test.sh
+after_failure:
+  - echo "--- License finder found un-approved licenses. ---"
+notifications:
+  email:
+    recipients:
+    - matthew.larson@flukenetworks.com
