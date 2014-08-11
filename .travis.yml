@@ -6,7 +6,7 @@ script: "bundle exec license_finder"
 after_success:
   - echo "+++ License Finder Completed successfully +++"
 after_failure:
-  - echo "--- License Finder Failed ---"
+  - echo "--- License Finder Failed ---" $TRAVIS_TEST_RESULT
 notifications:
   email:
     recipients:
