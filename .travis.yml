@@ -2,7 +2,9 @@ language: ruby
 cache: bundler
 rvm:
   - 2.0.0
-script: ./script/license_test.sh
+after_script:
+  - "gem install license_finder'"
+  - "license_finder"
 notifications:
   email:
     recipients:
