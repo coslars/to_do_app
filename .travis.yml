@@ -2,8 +2,7 @@ language: ruby
 cache: bundler
 rvm:
   - 2.0.0
-install:
-  - ./script/license_test.sh
+script: ./script/license_test.sh
 notifications:
   email:
     recipients:
