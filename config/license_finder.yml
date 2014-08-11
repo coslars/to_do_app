@@ -12,7 +12,7 @@ ignore_groups:
 #- test
 #- development
 ignore_dependencies:
- - diff-lcs
+#- diff-lcs
  - mime-types
  - pg
 #- bundler
