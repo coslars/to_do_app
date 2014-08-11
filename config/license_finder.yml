@@ -15,6 +15,7 @@ ignore_dependencies:
  - diff-lcs
  - mime-types
  - pg
+ - ox
 #- bundler
 dependencies_file_dir: './doc/'
 project_name: to_do_app
