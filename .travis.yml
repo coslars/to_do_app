@@ -3,8 +3,7 @@ cache: bundler
 rvm:
   - 2.0.0
 after_script:
-  - "gem install license_finder'"
-  - "license_finder"
+  - "bundle exec license_finder"
 notifications:
   email:
     recipients:
