@@ -2,8 +2,10 @@ language: ruby
 cache: bundler
 rvm:
   - 2.0.0
-before_script: "bundle exec license_finder"
-script: "bundle exec rspec spec"
+before_script: bundle exec license_finder
+script:
+  - bundle exec rake test:prepare
+  - bundle exec rspec spec
 after_success:
   - echo "+++ Tests Completed Successfully +++"
 after_failure:
