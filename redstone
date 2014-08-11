@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CodeScan scanTime="2014-08-11T13:59:46.354-06:00">
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-all.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-all-debug.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-neptune-debug-w-comments.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-dev.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-all-dev.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-neptune-debug.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-debug-w-comments.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-all-debug-w-comments.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-debug.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc. </before>
+            <after>. licensing@sencha.com</after>
+            <originalLine>Ext JS 4.1 - JavaScript Library Copyright (c) 2006-2012, Sencha Inc...</originalLine>
+        </attribution>
+        <fileName>ext-neptune.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params> 2007-2013 Ariel Flesler - aflesler&lt;a&gt;gmail&lt;d&gt;com http&lt;colon&gt;//flesler.blogspot.com Dual licensed under MIT and GPL. @author Ariel Flesler @version 1.4.5</params>
+            <id>189</id>
+            <matchname>Copyright</matchname>
+            <subrule>10</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>Copyright (c) 2007-2013 Ariel Flesler - aflesler&lt;a&gt;gmail&lt;d&gt;com http...</originalLine>
+        </attribution>
+        <fileName>jquery.scrollTo.min.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params> 2013 ducksboard; Licensed MIT</params>
+            <id>189</id>
+            <matchname>Copyright</matchname>
+            <subrule>10</subrule>
+            <before>gridster.js - v0.2.1 - 2013-10-28 http&lt;colon&gt;//gridster.net </before>
+            <after></after>
+            <originalLine>gridster.js - v0.2.1 - 2013-10-28 http&lt;colon&gt;//gridster.net Copyrig...</originalLine>
+        </attribution>
+        <fileName>jquery.gridster.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <id>188</id>
+            <matchname>MITname</matchname>
+            <subrule>10</subrule>
+            <before>@license jQuery Toggles v2.0.5 Copyright 2013 Simon Tabor - </before>
+            <after> https&lt;colon&gt;//github.com/simontabor/jquery-toggles / http&lt;colon&gt;//...</after>
+            <originalLine>@license jQuery Toggles v2.0.5 Copyright 2013 Simon Tabor - MIT Lic...</originalLine>
+        </attribution>
+        <fileName>toggles.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <id>188</id>
+            <matchname>MITname</matchname>
+            <subrule>10</subrule>
+            <before>Copyright 2012, Ali Farhadi Released under the </before>
+            <after></after>
+            <originalLine>Copyright 2012, Ali Farhadi Released under the MIT license.</originalLine>
+        </attribution>
+        <fileName>jquery.sortable.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <id>188</id>
+            <matchname>MITname</matchname>
+            <subrule>10</subrule>
+            <before>KineticJS v5.1.0 2014-03-27 http&lt;colon&gt;//www.kineticjs.com by Eric ...</before>
+            <after> https&lt;colon&gt;//github.com/ericdrowell/KineticJS/wiki/License var Ki...</after>
+            <originalLine>KineticJS v5.1.0 2014-03-27 http&lt;colon&gt;//www.kineticjs.com by Eric ...</originalLine>
+        </attribution>
+        <fileName>kinetic-v5.1.0.min.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <id>456</id>
+            <matchname>X11per</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after>&lt;colon&gt;</after>
+            <originalLine>Permission is hereby granted, free of charge, to any person obtaini...</originalLine>
+        </attribution>
+        <attribution>
+            <id>191</id>
+            <matchname>X11noticeExtrict</matchname>
+            <subrule>10</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>The above copyright notice and this permission notice shall be incl...</originalLine>
+        </attribution>
+        <attribution>
+            <id>192</id>
+            <matchname>X11asIsExtrict</matchname>
+            <subrule>10</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>THE SOFTWARE IS PROVIDED &lt;quotes&gt;AS IS&lt;quotes&gt;, WITHOUT WARRANTY OF...</originalLine>
+        </attribution>
+        <attribution>
+            <id>193</id>
+            <matchname>X11asLiableExtrict</matchname>
+            <subrule>10</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR AN...</originalLine>
+        </attribution>
+        <fileName>handlebars-v1.3.0.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <params></params>
+            <id>1</id>
+            <matchname>AllRights</matchname>
+            <subrule>0</subrule>
+            <before>┌──────────────────────────────────────────────────────────────────...</before>
+            <after></after>
+            <originalLine>┌──────────────────────────────────────────────────────────────────...</originalLine>
+        </attribution>
+        <attribution>
+            <id>257</id>
+            <matchname>ApacheLicWherePart1</matchname>
+            <subrule>52</subrule>
+            <before>Licensed under the Apache License, Version 2.0 (the &lt;quotes&gt;License...</before>
+            <after></after>
+            <originalLine>Licensed under the Apache License, Version 2.0 (the &lt;quotes&gt;License...</originalLine>
+        </attribution>
+        <attribution>
+            <id>258</id>
+            <matchname>ApacheLicWherePart2v2</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>http&lt;colon&gt;//www.apache.org/licenses/LICENSE-2.0</originalLine>
+        </attribution>
+        <attribution>
+            <id>261</id>
+            <matchname>ApachesAsIs</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>Unless required by applicable law or agreed to in writing, software...</originalLine>
+        </attribution>
+        <attribution>
+            <id>262</id>
+            <matchname>ApachesPermLim</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after>. ┌────────────────────────────────────────────────────────────┐ │ ...</after>
+            <originalLine>See the License for the specific language governing permissions and...</originalLine>
+        </attribution>
+        <attribution>
+            <params> 2008-2011 Dmitry Baranovskiy (http&lt;colon&gt;//raphaeljs.com) │ │ Copyright (c) 2008-2011 Sencha Labs (http&lt;colon&gt;//sencha.com) │ │ Licensed under the MIT (http&lt;colon&gt;//raphaeljs.com/license.html) license. │ └─────────────────────────────────────────────────────────────────────┘</params>
+            <id>189</id>
+            <matchname>Copyright</matchname>
+            <subrule>10</subrule>
+            <before>eve.version = version; eve.toString = function () { return &lt;quotes&gt;...</before>
+            <after></after>
+            <originalLine>eve.version = version; eve.toString = function () { return &lt;quotes&gt;...</originalLine>
+        </attribution>
+        <fileName>raphael-2.1.2.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <id>188</id>
+            <matchname>MITname</matchname>
+            <subrule>10</subrule>
+            <before>@name timeago @version 1.2.0 @requires jQuery v1.2.3+ @author Ryan ...</before>
+            <after> - http&lt;colon&gt;//www.opensource.org/licenses/mit-license.php</after>
+            <originalLine>@name timeago @version 1.2.0 @requires jQuery v1.2.3+ @author Ryan ...</originalLine>
+        </attribution>
+        <fileName>jquery.timeago.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+    <File>
+        <attribution>
+            <id>257</id>
+            <matchname>ApacheLicWherePart1</matchname>
+            <subrule>52</subrule>
+            <before>Licensed under the Apache License, Version 2.0 (the &lt;quotes&gt;License...</before>
+            <after></after>
+            <originalLine>Licensed under the Apache License, Version 2.0 (the &lt;quotes&gt;License...</originalLine>
+        </attribution>
+        <attribution>
+            <id>258</id>
+            <matchname>ApacheLicWherePart2v2</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>http&lt;colon&gt;//www.apache.org/licenses/LICENSE-2.0</originalLine>
+        </attribution>
+        <attribution>
+            <id>261</id>
+            <matchname>ApachesAsIs</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>Unless required by applicable law or agreed to in writing, software...</originalLine>
+        </attribution>
+        <attribution>
+            <id>262</id>
+            <matchname>ApachesPermLim</matchname>
+            <subrule>52</subrule>
+            <before></before>
+            <after></after>
+            <originalLine>See the License for the specific language governing permissions and...</originalLine>
+        </attribution>
+        <fileName>bootstrap-datepicker.js</fileName>
+        <lastModified>1407536529000</lastModified>
+    </File>
+</CodeScan>

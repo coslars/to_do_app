@@ -13,6 +13,8 @@ gem 'bootstrap-will_paginate', '0.0.9'
 gem 'validates_timeliness', '~> 3.0'
 # MDL license_finder task for Pivotal
 gem 'license_finder'
+gem 'cane'
+gem 'ox'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
