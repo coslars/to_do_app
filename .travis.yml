@@ -3,15 +3,11 @@ cache: bundler
 rvm:
   - 2.0.0
 before_script: "bundle exec license_finder"
+script: "bundle exec rspec spec"
 after_success:
-  - echo "+++ 1) License Finder Completed successfully +++"
+  - echo "+++ Tests Completed Successfully +++"
 after_failure:
-  - echo "--- 1) License Finder Failed ---"
-script: "bundle exec rspec"
-after_success:
-  - echo "+++ TESTS Passed +++"
-after_failure:
-  - echo "--- TESTS Failed ---"
+  - echo "--- Tests Failed ---"
 notifications:
   email:
     recipients:
