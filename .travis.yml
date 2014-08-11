@@ -2,8 +2,11 @@ language: ruby
 cache: bundler
 rvm:
   - 2.0.0
-after_script:
-  - "bundle exec license_finder"
+script: "bundle exec license_finder"
+after_success:
+  - echo "+++ License Finder Completed successfully +++"
+after_failure:
+  - echo "--- License Finder Failed ---"
 notifications:
   email:
     recipients:
