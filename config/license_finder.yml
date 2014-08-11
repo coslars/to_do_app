@@ -2,10 +2,19 @@
 whitelist:
 - MIT
 - Apache 2.0
+- ruby
+- other
+- LICENSE
+- BSD
+- Perl Artistic v2
+- GNU GPL v2
 ignore_groups:
 #- test
 #- development
 ignore_dependencies:
+ - diff-lcs
+ - mime-types
+ - pg
 #- bundler
 dependencies_file_dir: './doc/'
 project_name: to_do_app
